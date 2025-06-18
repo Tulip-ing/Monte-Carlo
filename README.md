@@ -1,8 +1,6 @@
 # 📊 Monte Carlo Molecular Simulation (Metropolis Algorithm)
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-red.svg)](https://streamlit.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project simulates a molecular system using the Metropolis Monte Carlo algorithm with a Lennard-Jones potential in a 3D box with periodic boundary conditions. It also provides a Streamlit-based UI for interactive experimentation with simulation parameters, real-time visualization, and result export.
 
