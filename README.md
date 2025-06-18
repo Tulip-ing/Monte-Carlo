@@ -29,7 +29,7 @@ This project simulates a molecular system using the Metropolis Monte Carlo algor
 
 
 ## 🔭 Project Overview
-This project simulates `N` particles interacting in a cubic box. The core of the simulation relies on the Lennard-Jones (LJ) potential for particle interactions and the Metropolis algorithm for accepting or rejecting new particle configurations. The entire simulation is wrapped in an easy-to-use Streamlit interface for interactive analysis.
+This project simulates `N` particles interacting in a cubic box. The core of the simulation relies on the Lennard-Jones (LJ) potential for particle interactions and the Metropolis algorithm for accepting or rejecting new particle configurations. The entire simulation is wrapped in an easy-to-use Streamlit interface for interactive analysis...
 
 Key physical concepts implemented:
 -   Random particle displacements
